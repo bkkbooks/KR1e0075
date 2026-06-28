@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR1e0075/v1
+canonical_location: https://kanripo.org/bkk/KR1e0075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 春秋經傳辨疑
+  date: '2015-08-24 22:15:42.622354'
+  source:
+    repository: kanripo
+    path: KR1e0075
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1e0075_000.yaml, hash: 'sha256:c80a8ab22e7cd8c7ab058eb486ab637d4345e85ab6bd9ec64d9cd3e2e0d0cac9'}
+  - {seq: 1, filename: KR1e0075_001.yaml, hash: 'sha256:ae48c10a38d90be2858ceb49f565da6361838e70895dc582ff94185f7839d7b6'}
+  - {seq: 2, filename: KR1e0075_002.yaml, hash: 'sha256:e5f9d1f65a0b9571163860dbc5441d5cddfff00686860699dcc7cf6900a2ba50'}
+  - {seq: 3, filename: KR1e0075_003.yaml, hash: 'sha256:dcdba9755d5502bc42a6f345b289dad397dc513f3c4e9abb95670706e369a68b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1e0075_000.markers.yaml, hash: 'sha256:fb4cec7cce6c3e15a21034e2d791b0153b639c313f1eb16d44f663d48496d5c6'}
+  - {seq: 1, role: markers, filename: assets/KR1e0075_001.markers.yaml, hash: 'sha256:f7f74001c9b311fc42f22acf2864e9ee63e5f199353e5b536de5aec874b2bf03'}
+  - {seq: 2, role: markers, filename: assets/KR1e0075_002.markers.yaml, hash: 'sha256:0045b56f4b7f65ddb1910425bb28eab739441f685b6052afd30ca4a24acd6043'}
+  - {seq: 3, role: markers, filename: assets/KR1e0075_003.markers.yaml, hash: 'sha256:e404a0c28958e927883c8d5199239677fec974858c357c8d22adb977f02cb793'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1e0075_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1068
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1e0075_WYG_000-9a
+    span:
+    - body
+    - 1068
+    - 1490
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1e0075_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 10647
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1e0075_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 6142
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1e0075_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 250
+  label: 題春秋經傳辨疑後
+  type: section
+  level: 1
+hash: sha256:7d2d6eb7cce11825f6fbf2bfe940b0f3212968072ad4f6016d63ad3103b31767
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

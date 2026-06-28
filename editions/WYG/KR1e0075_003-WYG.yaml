@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1e0075/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 題春秋經傳辨疑後蘭溪童君廷式爲春秋經傳辨疑之一帙凡九十三首持以示予予反覆讀之知廷式之用心亦至矣予弱冠嘗從邑校讀春秋辛勤鑚摩蓋亦有年其大義炳若日星者雖若可見至微詞奥㫖終不得窺其所在自左氏公羊榖梁而下爲傳附合者無慮數十百家而能發明聖人微奥者能幾人哉予初欲會同諸家之言竊附已意殊恐不得聖人之心而爲說亦累也國初新安趙子常氏精於春秋之學者嘗爲補註又爲屬詞潛溪宋太史稱其直探聖人之心於千載之上若吾廷式者得非亦欲探聖人之心者乎嗚呼聖人之心得不得焉即其言可知予書此卷末蓋亦不能無愧也成化二十二年秋七月朔日烏傷王汶謹識
+  hash: sha256:73814f256aaa34e114ec76c64eb66fd47fbdec8e1cc05d69ef6b433197a487bb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0075_WYG_003-1a, image: WYG0167/WYG0167-0035a.png}
+metadata:
+  title: 春秋經傳辨疑
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:15:42.622354'
+  source:
+    repository: kanripo
+    path: KR1e0075/KR1e0075_003.txt
+hash: sha256:d1936e7a0e6de359a133292b8826e4727b63ffa07fbabd02bc154da5d02482b1
